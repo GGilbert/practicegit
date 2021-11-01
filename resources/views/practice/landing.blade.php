@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html >
     <head>
     <title>practice.landing</title>
     </head>
@@ -10,7 +10,7 @@
     <li>This is a statement</li>
     <li>This is a statement</li>
     <li>This is a statement added</li>
+    <li>This is another statement added</li>
     </ul>
-
     </body>
 </html>
