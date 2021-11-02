@@ -19,7 +19,7 @@ class PracticeController extends Controller
             'practice' =>$practice]);
     }
 
-    /**
+    /**compos
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
