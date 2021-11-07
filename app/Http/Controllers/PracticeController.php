@@ -25,7 +25,7 @@ class PracticeController extends Controller
      */
     public function test()
     {
-        $practice = Practice::first();
+        //$practice = Practice::first();
         return view('practice.test');
     }
     /**
