@@ -14,9 +14,10 @@ class PracticeController extends Controller
      */
     public function landing()
     {
-        $practice = Practice::first();
-        return view('practice.landing',[
-            'practice' =>$practice]);
+        //$practice = Practice::first();
+        return view('practice.landing');
+        //,[
+         //   'practice' =>$practice]);
     }
 
     /**compos
