@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-    <title>practice.landing</title>
+    <title>practice.test (no db)</title>
     </head>
     <body>
     <ul>
@@ -13,7 +13,7 @@
     <li>This is another statement added</li>
     <li>This is another statement added for continuous integration</li>
     <li>This is yet another statement added for continuous integration</li>
-    <li>Pulling a database field - {{$practice->name}}</li> -->
+
     </ul>
     </body>
 </html>
